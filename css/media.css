@@ -1,0 +1,67 @@
+@media only screen and (max-width:600px) {
+    #menu-normal {
+        display: none;
+    }
+    #nav-top-responsivo {
+        display: block;
+    }
+    .top-logo {
+        text-align: center!important;
+    }
+}
+
+@media only screen and (min-width:1025px) and (max-width:1200px) {
+    .footer-logo {
+        font-size: 35px;
+    }
+    .tag-year-card {
+        display: block!important;
+        border-radius: 8px;
+        width: 30%;
+        background-color: greenyellow;
+    }
+    .titulo-page {
+        font-size: 50px!important;
+    }
+}
+
+@media only screen and (min-width:760px) and (max-width:1024px) {
+    .footer-logo {
+        font-size: 35px;
+    }
+    .tag-year-card {
+        display: block!important;
+        border-radius: 8px;
+        width: 30%;
+        background-color: greenyellow;
+    }
+    .titulo-page {
+        font-size: 50px!important;
+    }
+    .page3-h1 {
+        font-size: 40px;
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:759px) {
+    .footer-logo {
+        font-size: 35px;
+    }
+    #menu-normal {
+        display: none;
+    }
+    #nav-top-responsivo {
+        display: block;
+    }
+    .top-logo {
+        text-align: center!important;
+    }
+    .titulo-page {
+        font-size: 50px!important;
+    }
+    .texto-central-secao {
+        font-family: 'Bebas Neue', cursive;
+        color: red;
+        font-size: 30px;
+    }
+}

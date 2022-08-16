@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+* {
+    padding: 0;
+}
+
+#nav-top-responsivo {
+    display: none;
+}
+
+.texto-central-secao {
+    font-family: 'Bebas Neue', cursive;
+    color: red;
+    font-size: 50px;
+}
+
+.bg-cinza {
+    background-color: #ccc;
+}
+
+.bg-brancogelo {
+    background-color: #F2F2F2;
+}
+
+.top-logo {
+    font-size: 40px;
+}
+
+.footer-logo {
+    font-size: 70px;
+}
+
+.top-menu-text {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.icon {
+    width: 15px;
+}
+
+.icon-cards {
+    width: 100px;
+}
+
+.icon-cards-larger {
+    width: 35px;
+}
+
+.title-section-02 {
+    font-size: 25px;
+}
+
+.card-1-title {
+    font-size: 25px;
+}
+
+.card-1-text {
+    font-size: 15px;
+}
+
+.card-customized {
+    border: 0px !important;
+}
+
+.card-quadrado {
+    border-radius: 0!important;
+}
+
+.tag-year-card {
+    display: block!important;
+    border-radius: 8px;
+    width: 15%;
+    background-color: greenyellow;
+}
+
+.card-carousel-title {
+    font-size: 25px;
+}
+
+.btn {
+    border-radius: 0!important;
+    cursor: pointer!important;
+}
+
+.formulario-footer input[type=text] {
+    border-radius: 5px;
+    background-color: #ccc;
+    color: #000;
+    height: 40px;
+}
+
+.formulario-footer input[type=button] {
+    background-color: red;
+    height: 40px;
+    cursor: pointer;
+}
+
+.btn-click {
+    cursor: pointer!important;
+}
+
+.card-client {
+    transition: 1s;
+}
+
+.card-client:hover {
+    transform: scale(1.1, 1.1);
+}
+
+.card-noticia {
+    transition: 1s;
+}
+
+.card-noticia:hover {
+    transform: scale(1.1, 1.1);
+}
+
+#btn-submit-white {
+    color: #fff;
+    font-size: larger;
+    cursor: pointer;
+}
